@@ -1,4 +1,4 @@
-# Repositorio de Ejemplos query SQL sobre Esquema HR de Oracle Database
+# Script SQL sobre Esquema HR de Oracle Database
 
 Este repositorio tiene como objetivo proporcionar ejercicios prácticos de consultas SQL utilizando el esquema de prueba HR de Oracle. 
 
