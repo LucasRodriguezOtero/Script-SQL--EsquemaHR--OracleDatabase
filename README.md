@@ -9,3 +9,6 @@ El objetivo de este repositorio es mostrar algunos conocimientos básicos y avan
 ## Contenido
 
 En este repositorio encontrarás una serie de ejercicios y scripts SQL sobre sentencias DML, DDL, JOINS, CONSULTAS AGRUPADAS, SUBCONSULTAS etc..
+
+## Esquema de prueba HR
+<img src="EsquemaHR.png" alt="Esquema" style="width: 600px; height: 400px;">
